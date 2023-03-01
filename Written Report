@@ -1,0 +1,9 @@
+The District Summary DataFrame contains information about the entire district, including the total number of schools and students, total budget, average math and reading scores, and the percentage of students passing math, reading, and overall. 
+
+The School Summary DataFrame contains information about each individual school, including the total number of students, total school budget, per student budget, average math and reading scores, and the percentage of students passing math, reading, and overall. 
+
+Two correct conclusions that can be made from these calculations are: 
+
+1. The is a significant variation in the percentage of students passing math, reading, and overall across different schools in the district, with some schools having a pass rate of over 90%, while others have a pass rate below 60%. 
+
+2. The average math and reading scores across all schools in the district are similar, with math scores being slightly lower than reading scores. 
